@@ -1,0 +1,15 @@
+Serrial Output Example
+
+__________________________________
+Full Decoded Signal: 0100110011100010000000100110001110010011000
+Valid Signal:
+Transmitter ID (Decimal): 19682
+Channel (Decimal): 0
+Mode: Vibrate (Decimal: 2)
+Strength (Decimal): 99
+Checksum (Decimal): 147
+End (Decimal): 0
+__________________________________
+Full Decoded Signal: 100110011100010000000100110001110010011000
+Invalid signal (checksum failed).
+__________________________________
